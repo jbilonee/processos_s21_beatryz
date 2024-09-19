@@ -4,13 +4,13 @@
 - [] BombaEtanol
 - [] BombaGasolina
 
-[] Uso de Git e GitHub (1 ponto);
+[*] Uso de Git e GitHub (1 ponto);
 
-[] Uso dos nomes descritos no arquivo de registro (1 ponto);
+[*] Uso dos nomes descritos no arquivo de registro (1 ponto);
 
 [] Uso de atributos encapsulados (1 ponto);
 
-[] Calcular a quantidade de litros nas bombas (1 ponto);
+[*] Calcular a quantidade de litros nas bombas (1 ponto);
 
 [] Implementação de abastecer por litro e valor na BombaEtanol (1 ponto);
 
